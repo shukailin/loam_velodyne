@@ -7,7 +7,7 @@ All sources were taken from [ROS documentation](http://docs.ros.org/indigo/api/l
 
 Ask questions [here](https://github.com/laboshinl/loam_velodyne/issues/3).
 
-How to build with catkin:
+How to build with catkin!:
 
 ```
 $ cd ~/catkin_ws/src/
